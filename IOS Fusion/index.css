@@ -483,3 +483,7 @@ html,body{
 #timeline{
 	width:100%;
 }
+
+#home {
+	height: 105vh;
+}
