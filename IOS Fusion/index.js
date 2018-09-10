@@ -40,7 +40,7 @@ for(var i=0;	i<glyphs.length; i++)
 	})
 }
 /*TIMER */
-var countDownDate = new Date("Sep 13, 2018 18:00:00").getTime();
+var countDownDate = new Date("Sep 14, 2018 19:00:00").getTime();
 var x = setInterval(function() {
 
   // Get todays date and time
